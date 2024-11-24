@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm Jiraya and I like open-source projects (PLZ INVITE ME SOMEWHERE)<
+    Hi, I'm Jiraya and I like open-source projects (PLZ INVITE ME SOMEWHERE)
   </samp>
 </p>a
 
