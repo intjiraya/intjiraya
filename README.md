@@ -1,7 +1,7 @@
 <p align="center">
-  <pre>
-Hi, I'm Jiraya and I like open-source projects (PLZ INVITE ME SOMEWHERE)
-  </pre>
+  <samp>
+<br>Hi, I'm Jiraya and I like open-source projects (PLZ INVITE ME SOMEWHERE)</br>
+  </samp>
 </p>
 
 <p align="center">
@@ -9,5 +9,5 @@ Hi, I'm Jiraya and I like open-source projects (PLZ INVITE ME SOMEWHERE)
 </p>
 
 <p align="center">
-  <em>I really want to create something amazing!</em>
+  <b>I really want to create something amazing!</b>
 </p>
